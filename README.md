@@ -5,4 +5,4 @@ I’m a passionate cybersecurity professional with a strong aptitude for trouble
 
 ## Certifications
 
-![Certification Badge](https://www.credly.com/users/javier-ernesto-urena)
+![Certification Badge](https://www.credly.com/badges/969cc9af-4c32-4aeb-a969-8bd0d3ee9f19/public_url)
