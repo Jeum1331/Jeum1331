@@ -5,4 +5,4 @@ I’m a passionate cybersecurity professional with a strong aptitude for trouble
 
 ## Certifications
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="969cc9af-4c32-4aeb-a969-8bd0d3ee9f19" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<img src=h'ttps://www.credly.com/badges/969cc9af-4c32-4aeb-a969-8bd0d3ee9f19/public_url"
