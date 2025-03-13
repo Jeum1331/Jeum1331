@@ -5,3 +5,4 @@ I’m a passionate cybersecurity professional with a strong aptitude for trouble
 
 ## Certifications
 ![CompTIA Security+](https://images.credly.com/size/220x220/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png)
+![CompTIA Security+](https://images.credly.com/size/220x220/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png)
