@@ -12,12 +12,12 @@ vulnerability assessment, and incident response.
 Hands-on experience with firewalls, SIEM tools, and ethical hacking</ul> 
 
 # Certifications
-<ul><li>CompTIA Security+</li></ul>
-Issued: February 2025
+<ul><li>CompTIA Security+</li>
+Issued: February 2025</ul>
 
 # Practical Experience
-<ul><li>TryHackMe Enthusiast</li></ul>
-Engaged in various cybersecurity challenges to hone practical skills.
+<ul><li>TryHackMe Enthusiast</li>
+Engaged in various cybersecurity challenges to hone practical skills.</ul>
 
 
 # Technical Skills
