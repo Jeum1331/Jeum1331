@@ -34,7 +34,7 @@ Implemented centralized logging and real-time monitoring solutions.</ul>
 
 # Let's Connect
 <a href="https://linkedin.com/in/javier-urena-412402b7/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://youtube.com/channel/UCF2iwwAykVUWQcVsd_mV97Q/"><img src="https://img.shields.io/youtube/channel/subscribers/:channelId" /></a>
+<a href="https://youtube.com/channel/UCF2iwwAykVUWQcVsd_mV97Q/](https://www.youtube.com/channel/UCF2iwwAykVUWQcVsd_mV97Q"><img src="https://img.shields.io/youtube/channel/subscribers/:channelId" /></a>
 
 
 
