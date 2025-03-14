@@ -6,10 +6,10 @@ I’m a passionate cybersecurity professional with a strong aptitude for trouble
 <ul><li>Bachelor of Business Administration in Cybersecurity
 University of Texas at San Antonio:</li>
 In Progress
-<li>Cybersecurity Certification | University of Texas at San Antonio:
+<li>Cybersecurity Certification | University of Texas at San Antonio:</li>
 Completed a comprehensive program covering network security, threat analysis,
 vulnerability assessment, and incident response.
-Hands-on experience with firewalls, SIEM tools, and ethical hacking</li></ul> 
+Hands-on experience with firewalls, SIEM tools, and ethical hacking</ul> 
 
 # Certifications
 <ul><li>CompTIA Security+</li></ul>
@@ -30,8 +30,8 @@ Tools & Technologies: Wireshark, Splunk, Nmap, Metasploit</li>
 <ul><li>Network Traffic Analysis:</li>
 Analyzed and mitigated potential threats using Wireshark.
 
-<li>Log Management with Splunk:</li></ul>
-   Implemented centralized logging and real-time monitoring solutions.
+<li>Log Management with Splunk:</li>
+Implemented centralized logging and real-time monitoring solutions.</ul>
 
 # Let's Connect
 <a href="https://linkedin.com/in/javier-urena-412402b7/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
