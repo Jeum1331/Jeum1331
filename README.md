@@ -6,10 +6,10 @@ I’m a passionate cybersecurity professional with a strong aptitude for trouble
 <ul><li>Bachelor of Business Administration in Cybersecurity
 University of Texas at San Antonio:</li>
 In Progress
-<li>Cybersecurity Certification | University of Texas at San Antonio:</li></ul> 
+<li>Cybersecurity Certification | University of Texas at San Antonio:
 Completed a comprehensive program covering network security, threat analysis,
 vulnerability assessment, and incident response.
-Hands-on experience with firewalls, SIEM tools, and ethical hacking
+Hands-on experience with firewalls, SIEM tools, and ethical hacking</li></ul> 
 
 # Certifications
 <ul><li>CompTIA Security+</li></ul>
