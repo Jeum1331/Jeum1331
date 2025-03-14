@@ -3,10 +3,9 @@
 I’m a passionate cybersecurity professional with a strong aptitude for troubleshooting Linux systems, analyzing network traffic, and utilizing industry-leading tools like Wireshark and Splunk to detect and respond to threats. With a keen eye for detail and a dedication to securing digital environments, I’m always ready to dive into log analysis, network monitoring, and ensuring robust security measures are in place. As a quick learner, I am eager to apply my skills in safeguarding infrastructures and advancing cybersecurity practices. Let’s connect and secure the future together!
 
 # Education
-<ul><li>Bachelor of Business Administration in Cybersecurity
-University of Texas at San Antonio:</li>
+<ul><li>Bachelor of Business Administration in Cybersecurity | University of Texas at San Antonio</li>
 In Progress
-<li>Cybersecurity Certification | University of Texas at San Antonio:</li>
+<li>Cybersecurity Certification | University of Texas at San Antonio</li>
 Completed a comprehensive program covering network security, threat analysis,
 vulnerability assessment, and incident response.
 Hands-on experience with firewalls, SIEM tools, and ethical hacking</ul> 
