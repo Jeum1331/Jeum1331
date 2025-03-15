@@ -20,12 +20,14 @@ Issued: February 2025</ul>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Wireshark Repository</title>
 </head>
 <body>
-    <p><a href="https://github.com/Jeum1331/Wireshark" target="_blank">Wireshark</a></p>
+    <ul>
+        <li><a href="https://github.com/Jeum1331/Wireshark" target="_blank">Wireshark</a></li>
+    </ul>
 </body>
 </html>
+
 <ul><li>TryHackMe Enthusiast</li>
 Engaged in various cybersecurity challenges to hone practical skills.</ul>
 
