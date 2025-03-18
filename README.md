@@ -63,8 +63,8 @@ Engaged in various cybersecurity challenges to hone practical skills.</ul>
 </html>
 <ul>
     <li>
-            <a href="https://github.com/Jeum1331/Ethical-Hacking/blob/main/Hacking-Wifi-Passwords.md" target="_blank">
-                Hacking-Wifi-Passwords
+            <a href="https://github.com/Jeum1331/Ethical-Hacking/tree/main" target="_blank">
+                Ethical Hacking
             </a> 
         </li>
     </ul>
