@@ -57,12 +57,12 @@ Engaged in various cybersecurity challenges to hone practical skills.</ul>
             <a href="https://github.com/Jeum1331/Log-Management-with-Splunk" target="_blank">
                 Log Management with Splunk
             </a> 
-            – Implemented centralized logging and real-time monitoring solutions.
         </li>
     </ul>
 </body>
 </html>
-<li>
+<ul>
+    <li>
             <a href="https://github.com/Jeum1331/Ethical-Hacking/blob/main/Hacking-Wifi-Passwords.md" target="_blank">
                 Hacking-Wifi-Passwords
             </a> 
