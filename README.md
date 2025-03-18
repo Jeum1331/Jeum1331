@@ -77,3 +77,23 @@ Tools & Technologies: Wireshark, Splunk, Nmap, Metasploit</li>
 
 # Badges
 ![comptia-security-ce-certification](https://github.com/user-attachments/assets/cbe1454c-e087-4968-bbdc-c98cac8fa86a)
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cybersecurity Projects</title>
+</head>
+<body>
+    <ul>
+        <li>Network Traffic Analysis: Analyzed and mitigated potential threats using Wireshark.</li>
+        <li>
+            <a href="https://github.com/Jeum1331/Log-Management-with-Splunk" target="_blank">
+                Log Management with Splunk
+            </a> 
+            – Implemented centralized logging and real-time monitoring solutions.
+        </li>
+    </ul>
+</body>
+</html>
