@@ -49,7 +49,6 @@ Engaged in various cybersecurity challenges to hone practical skills.</ul>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cybersecurity Projects</title>
 </head>
 <body>
     <ul>
