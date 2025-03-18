@@ -43,19 +43,28 @@ Issued: February 2025</ul>
 <ul><li>TryHackMe Enthusiast</li>
 Engaged in various cybersecurity challenges to hone practical skills.</ul>
 
+# Projects
+<ul><li>Network Traffic Analysis:</li>
+Analyzed and mitigated potential threats using Wireshark.
+    
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <ul>
+        <li><a href="https:https://github.com/Jeum1331/Log-Management-with-Splunk" target="_blank">Log-Management-with-Splunk</a></li>
+    </ul>
+</body>
+<li>Log Management with Splunk:</li>
+Implemented centralized logging and real-time monitoring solutions.</ul>
 
 # Technical Skills
 <ul><li>Operating Systems: Linux (Ubuntu, CentOS), Windows
 Tools & Technologies: Wireshark, Splunk, Nmap, Metasploit</li>
 <li>Networking: TCP/IP, Network Security, Firewalls</li>
 <li>Scripting Languages: Bash, Python</li></ul>
-
-# Projects
-<ul><li>Network Traffic Analysis:</li>
-Analyzed and mitigated potential threats using Wireshark.
-
-<li>Log Management with Splunk:</li>
-Implemented centralized logging and real-time monitoring solutions.</ul>
 
 # Let's Connect
 <a href="https://linkedin.com/in/javier-urena-412402b7/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
