@@ -57,7 +57,6 @@ Analyzed and mitigated potential threats using Wireshark.
         <li><a href="https:https://github.com/Jeum1331/Log-Management-with-Splunk" target="_blank">Log-Management-with-Splunk</a></li>
     </ul>
 </body>
-<li>Log Management with Splunk:</li>
 Implemented centralized logging and real-time monitoring solutions.</ul>
 
 # Technical Skills
