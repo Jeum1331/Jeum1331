@@ -44,40 +44,6 @@ Issued: February 2025</ul>
 Engaged in various cybersecurity challenges to hone practical skills.</ul>
 
 # Projects
-<ul><li>Network Traffic Analysis:</li>
-Analyzed and mitigated potential threats using Wireshark.
-    
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <ul>
-        <li><a href="https:https://github.com/Jeum1331/Log-Management-with-Splunk" target="_blank">Log-Management-with-Splunk</a></li>
-    </ul>
-</body>
-Implemented centralized logging and real-time monitoring solutions.</ul>
-
-# Technical Skills
-<ul><li>Operating Systems: Linux (Ubuntu, CentOS), Windows
-Tools & Technologies: Wireshark, Splunk, Nmap, Metasploit</li>
-<li>Networking: TCP/IP, Network Security, Firewalls</li>
-<li>Scripting Languages: Bash, Python</li></ul>
-
-# Let's Connect
-<a href="https://linkedin.com/in/javier-urena-412402b7/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-<a href="https://www.youtube.com/channel/UCF2iwwAykVUWQcVsd_mV97Q" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube Subscribe" />
-</a>
-
-
-
-
-# Badges
-![comptia-security-ce-certification](https://github.com/user-attachments/assets/cbe1454c-e087-4968-bbdc-c98cac8fa86a)
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -97,3 +63,23 @@ Tools & Technologies: Wireshark, Splunk, Nmap, Metasploit</li>
     </ul>
 </body>
 </html>
+
+
+# Technical Skills
+<ul><li>Operating Systems: Linux (Ubuntu, CentOS), Windows
+Tools & Technologies: Wireshark, Splunk, Nmap, Metasploit</li>
+<li>Networking: TCP/IP, Network Security, Firewalls</li>
+<li>Scripting Languages: Bash, Python</li></ul>
+
+# Let's Connect
+<a href="https://linkedin.com/in/javier-urena-412402b7/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<a href="https://www.youtube.com/channel/UCF2iwwAykVUWQcVsd_mV97Q" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube Subscribe" />
+</a>
+
+
+
+
+# Badges
+![comptia-security-ce-certification](https://github.com/user-attachments/assets/cbe1454c-e087-4968-bbdc-c98cac8fa86a)
