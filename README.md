@@ -44,8 +44,8 @@ Issued: February 2025</ul>
     </ul>
 </body>
 
-<ul><li>TryHackMe Enthusiast</li>
-Engaged in various cybersecurity challenges to hone practical skills.</ul>
+<ul><li>TryHackMe Enthusiast.</li>
+</ul>
 
 # Projects
 <!DOCTYPE html>
