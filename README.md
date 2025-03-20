@@ -29,7 +29,7 @@ Issued: February 2025</ul>
 </body>
 <body>
     <ul>
-        <li><a href="https://github.com/Jeum1331/Nessus-Vulnerability-Scanner" target="_blank">Nessus VUlnerability Scanner</a></li>
+        <li><a href="https://github.com/Jeum1331/Nessus-Vulnerability-Scanner" target="_blank">Nessus Vulnerability Scanner</a></li>
     </ul>
 </body>
 <!DOCTYPE html>
