@@ -10,10 +10,6 @@ Completed a comprehensive program covering network security, threat analysis,
 vulnerability assessment, and incident response.
 Hands-on experience with firewalls, SIEM tools, and ethical hacking</ul> 
 
-# Certifications
-<ul><li>CompTIA Security+</li>
-Issued: February 2025</ul>
-
 # Practical Experience
 </html>
 <!DOCTYPE html>
