@@ -56,7 +56,9 @@ Issued: February 2025</ul>
 </head>
 <body>
     <ul>
-        <li>Network Traffic Analysis: Analyzed and mitigated potential threats using Wireshark.</li>
+        <li>
+            <a href="https://github.com/Jeum1331/Honeypot" target="_blank">Honeypot</a>
+            </li>
         <li>
             <a href="https://github.com/Jeum1331/Log-Management-with-Splunk" target="_blank">
                 Log Management with Splunk
